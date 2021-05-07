@@ -1,0 +1,2255 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.02355478435703,-37.88111879674081 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Caulfield Police Station</p><div>289 Hawthorn Rd, Caulfield VIC 3162, Australia</div><div><a href=\"https://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9524 9500</div><br /><br /><button class=\"button\" data-lng-lat=\"145.02355478435703,-37.88111879674081\" data-feature-id=\"145.02345250000002,-37.881226\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.079709,-37.862874 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Ashburton Police Station</p><div>1 Y St, Ashburton VIC 3147, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 9885 0522</div><br /><br /><button class=\"button\" data-lng-lat=\"145.079709,-37.862874\" data-feature-id=\"145.079709,-37.862874\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.735482,-37.579825 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Melton Police Station<br></p><div>243 Station Rd, Melton VIC 3337, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=551\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=551\">www.police.vic.gov.au</a></div><div>+61 3 9747 7999</div><p><br><br><button class=\"button\" data-lng-lat=\"144.735482,-37.579825\" data-feature-id=\"144.735482,-37.579825\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button></p><br /><br /><button class=\"button\" data-lng-lat=\"144.735482,-37.579825\" data-feature-id=\"144.735482,-37.579825\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.933079,-37.598588 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Craigieburn Police Station</p><div>155 Craigieburn Rd, Craigieburn VIC 3064, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9303 4433</div><br /><br /><button class=\"button\" data-lng-lat=\"144.933079,-37.598588\" data-feature-id=\"144.933079,-37.598588\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.577941,-37.685833 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Melton Police Station</p><div>243 Station Rd, Melton VIC 3337, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=551\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=551\">www.police.vic.gov.au</a></div><div>+61 3 9747 7999</div><br /><br /><button class=\"button\" data-lng-lat=\"144.577941,-37.685833\" data-feature-id=\"144.577941,-37.685833\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.740593,-37.730501 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div>Caroline Springs Police Station</div><div>221 Caroline Springs Blvd, Caroline Springs VIC 3023, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 9361 4700</div><br /><br /><button class=\"button\" data-lng-lat=\"144.740593,-37.730501\" data-feature-id=\"144.740593,-37.730501\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.916874,-37.683223 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Broadmeadows Police Station</p><div>15 Dimboola Rd, Broadmeadows VIC 3047, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=608\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=608\">www.police.vic.gov.au</a></div><div>+61 3 9302 8222</div><br /><br /><button class=\"button\" data-lng-lat=\"144.916874,-37.683223\" data-feature-id=\"144.916874,-37.683223\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.906536,-37.863549 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Williamstown Police Station</p><div>100 Nelson Pl, Williamstown VIC 3016, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9393 9555</div><br /><br /><button class=\"button\" data-lng-lat=\"144.906536,-37.863549\" data-feature-id=\"144.906536,-37.863549\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.310535,-37.789538 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Mooroolbark Police Station</p><div>188 Hull Rd, Mooroolbark VIC 3138, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=623\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=623\">www.police.vic.gov.au</a></div><div>+61 3 9725 9999</div><br /><br /><button class=\"button\" data-lng-lat=\"145.310535,-37.789538\" data-feature-id=\"145.310535,-37.789538\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.28343,-38.113362 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Cranbourne Police Station</p><div>168 Sladen St, Cranbourne VIC 3977, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=581\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=581\">www.police.vic.gov.au</a></div><div>+61 3 5991 0600</div><br /><br /><button class=\"button\" data-lng-lat=\"145.28343,-38.113362\" data-feature-id=\"145.28343,-38.113362\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.452805,-38.061531 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Pakenham Police Station</p><div>780 Princes Hwy, Pakenham VIC 3810, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=605\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=605\">www.police.vic.gov.au</a></div><div>+61 3 5945 2500</div><br /><br /><button class=\"button\" data-lng-lat=\"145.452805,-38.061531\" data-feature-id=\"145.452805,-38.061531\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.569087,-38.174735 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Drysdale Police Station</p><div>11 Eversley St, Drysdale VIC 3222, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 5253 1763</div><br /><br /><button class=\"button\" data-lng-lat=\"144.569087,-38.174735\" data-feature-id=\"144.569087,-38.174735\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.657887,-38.115344 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Portarlington Police Station</p><div>119 Newcombe St, Portarlington VIC 3223, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 5259 2606</div><br /><br /><button class=\"button\" data-lng-lat=\"144.657887,-38.115344\" data-feature-id=\"144.657887,-38.115344\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.889659,-38.36982 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Rosebud Police Station</p><div>95 Boneo Rd, Rosebud VIC 3939, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=590\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=590\">www.police.vic.gov.au</a></div><div>+61 3 5986 0444</div><br /><br /><button class=\"button\" data-lng-lat=\"144.889659,-38.36982\" data-feature-id=\"144.889659,-38.36982\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.239,-38.4502 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Cowes Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"i4ewOd-TaUzNb-K9a4Re-haAclf\"><div><span style=\"font-size: 16px;\">92 Chapel St, Cowes VIC 3933, Australia</span><br></div></div><div id=\"map-infowindow-attr-说明-container\" class=\"i4ewOd-TaUzNb-g7W7Ed-haAclf \"><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 5952 2037</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.239,-38.4502\" data-feature-id=\"145.239,-38.4502\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.961052,-38.334732 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Dromana Police Station</p><div>321 Point Nepean Rd, Dromana VIC 3936, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=607\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=607\">www.police.vic.gov.au</a></div><div>+61 3 5987 2023</div><br /><br /><button class=\"button\" data-lng-lat=\"144.961052,-38.334732\" data-feature-id=\"144.961052,-38.334732\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.036608,-38.216523 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Mornington Police Station</p><div>8 Main St, Mornington VIC 3931, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=602\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=602\">www.police.vic.gov.au</a></div><div>+61 3 5970 4900</div><br /><br /><button class=\"button\" data-lng-lat=\"145.036608,-38.216523\" data-feature-id=\"145.036608,-38.216523\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.184676,-38.307863 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Hastings Police Station</p><div>137 High St, Hastings VIC 3915, Australia</div><div><a href=\"https://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 5970 7800</div><br /><br /><button class=\"button\" data-lng-lat=\"145.184676,-38.307863\" data-feature-id=\"145.184676,-38.307863\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.124667,-38.138901 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Frankston Police Station</p><div>15 Fletcher Rd, Frankston VIC 3199, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9784 5555</div><br /><br /><button class=\"button\" data-lng-lat=\"145.124667,-38.138901\" data-feature-id=\"145.124667,-38.138901\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.173384,-38.114822 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Carrum Downs Police Station</p><div>42 Ballarto Rd, Frankston North VIC 3200, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 8770 4100</div><br /><br /><button class=\"button\" data-lng-lat=\"145.173384,-38.114822\" data-feature-id=\"145.173384,-38.114822\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.6619962,-38.2683447 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Queenscliff Police Station</p><div>Gellibrand St, Queenscliff VIC 3225, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=585\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=585\">www.police.vic.gov.au</a></div><div>+61 3 5258 4285</div><br /><br /><button class=\"button\" data-lng-lat=\"144.6619962,-38.2683447\" data-feature-id=\"144.6619962,-38.2683447\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.771403,-37.863264 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Laverton Police Station</p><div>36 Maher Rd, Laverton VIC 3028, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9369 2122</div><br /><br /><button class=\"button\" data-lng-lat=\"144.771403,-37.863264\" data-feature-id=\"144.771403,-37.863264\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.960939,-37.828319 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Southbank Police Station</p><div>66-76 Moray St, Southbank VIC 3006, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?document_id=27794\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?document_id=27794\">www.police.vic.gov.au</a></div><div>+61 3 8635 0900</div><br /><br /><button class=\"button\" data-lng-lat=\"144.960939,-37.828319\" data-feature-id=\"144.960939,-37.828319\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.17031604621653,-37.846989 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Forest Hill Police Station</p><div>469 Springvale Rd, Forest Hill VIC 3131, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 8847 3600</div><br /><br /><button class=\"button\" data-lng-lat=\"145.17054,-37.846989\" data-feature-id=\"145.17054,-37.846989\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button><br /><br /><button class=\"button\" data-lng-lat=\"145.17031604621653,-37.846989\" data-feature-id=\"145.17054,-37.846989\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.029611,-37.855883 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Malvern Police Station</p><div>288 Glenferrie Rd, Malvern VIC 3144, Australia</div><div><a href=\"https://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 8823 5600</div><br /><br /><button class=\"button\" data-lng-lat=\"145.029611,-37.855883\" data-feature-id=\"145.029611,-37.855883\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.088003,-37.898323 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Oakleigh Police Station</p><div>Oakleigh Police Complex, 1 Atherton Street, Oakleigh VIC 3166, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9567 8900</div><br /><br /><button class=\"button\" data-lng-lat=\"145.088003,-37.898323\" data-feature-id=\"145.088003,-37.898323\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1229311,-37.9215583 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Clayton Police Station</p><div>263 Clayton Rd, Clayton VIC 3168, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 9543 3888</div><br /><br /><button class=\"button\" data-lng-lat=\"145.1229311,-37.9215583\" data-feature-id=\"145.1229311,-37.9215583\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.056587,-37.964744 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Cheltenham Police Station</p><div>1224 Nepean Hwy, Cheltenham VIC 3192, Australia</div><div><a href=\"https://www.bayside.vic.gov.au/community-directory/police-cheltenham\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.bayside.vic.gov.au/community-directory/police-cheltenham\">www.bayside.vic.gov.au</a></div><div>+61 3 9583 9767</div><br /><br /><button class=\"button\" data-lng-lat=\"145.056587,-37.964744\" data-feature-id=\"145.056587,-37.964744\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.932149,-37.785119 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Flemington Police Station</p><div>30 Wellington St, Flemington VIC 3031, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 9371 6100</div><br /><br /><button class=\"button\" data-lng-lat=\"144.932149,-37.785119\" data-feature-id=\"144.932149,-37.785119\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.285488,-37.859934 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Boronia Police Station</p><div>Boronia Police Complex, 259 Dorset Rd, Boronia VIC 3155, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9760 6600</div><br /><br /><button class=\"button\" data-lng-lat=\"145.285488,-37.859934\" data-feature-id=\"145.285488,-37.859934\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.066042,-37.839498 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Camberwell Police Station</p><div>317 Camberwell Rd, Camberwell VIC 3124, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=545\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=545\">www.police.vic.gov.au</a></div><div>+61 3 9882 0688</div><br /><br /><button class=\"button\" data-lng-lat=\"145.066042,-37.839498\" data-feature-id=\"145.066042,-37.839498\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.127425,-37.817477 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Box Hill Police Station</p><div>1 Kangerong Rd, Box Hill South VIC 3128, Australia</div><div><a href=\"https://www.facebook.com/pages/Box-Hill-Police-Station/132358480152809\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.facebook.com/pages/Box-Hill-Police-Station/132358480152809\">www.facebook.com</a></div><div>+61 3 8892 3200</div><br /><br /><button class=\"button\" data-lng-lat=\"145.127425,-37.817477\" data-feature-id=\"145.127425,-37.817477\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.128343,-37.880457 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Mount Waverley Police Station</p><div>338 Stephensons Rd, Mount Waverley VIC 3149, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9888 3755</div><p><br data-mce-bogus=\"1\"></p><br /><br /><button class=\"button\" data-lng-lat=\"145.128343,-37.880457\" data-feature-id=\"145.128343,-37.880457\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.164094,-37.90364 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Glen Waverley Police Station</p><div>643 Ferntree Gully Rd, Glen Waverley VIC 3150, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9566 1555</div><br /><br /><button class=\"button\" data-lng-lat=\"145.164094,-37.90364\" data-feature-id=\"145.164094,-37.90364\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95137,-37.813634 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Melbourne West Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>313 Spencer St, Docklands VIC 3008, Australia</div><div><a href=\"http://police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://police.vic.gov.au/\">police.vic.gov.au</a></div><div>+61 3 8690 4444</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.95137,-37.813634\" data-feature-id=\"144.95137,-37.813634\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Police Station",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.959569,-37.834847 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">South Melbourne Police Station.</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>211 Bank St, South Melbourne VIC 3205, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=567\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=567\">www.police.vic.gov.au</a></div><div>+61 3 9257 3800</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.959569,-37.834847\" data-feature-id=\"144.959569,-37.834847\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.100287,-37.766852 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Melbourne East Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>202 Bourke St, Melbourne VIC 3000, Australia</div><div><a href=\"http://police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://police.vic.gov.au/\">police.vic.gov.au</a></div><div>+61 3 9637 1100</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.100287,-37.766852\" data-feature-id=\"145.100287,-37.766852\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.065918,-37.976898 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Flinders Street Railway Station Police Booth</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>226 Flinders St, Melbourne VIC 3000, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9610 7446</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.065918,-37.976898\" data-feature-id=\"145.065918,-37.976898\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.993602,-37.80387 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Collingwood Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>1 Eddy Ct, Abbotsford VIC 3067, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 8413 1700</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.993602,-37.80387\" data-feature-id=\"144.993602,-37.80387\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.999578,-37.817449 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Richmond Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>217 Church St, Richmond VIC 3121, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 8420 3600</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.999578,-37.817449\" data-feature-id=\"144.999578,-37.817449\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.954566,-37.800308 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">North Melbourne Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>36 Wreckyn St, North Melbourne VIC 3051, Australia</div><div><a href=\"https://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 8379 0800</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.954566,-37.800308\" data-feature-id=\"144.954566,-37.800308\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.981269,-37.80258 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\"><div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Prahran Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>396 Malvern Rd, Prahran VIC 3181, Australia</div><div><a href=\"https://www.chiefexaminer.vic.gov.au/content.asp?Document_ID=568\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.chiefexaminer.vic.gov.au/content.asp?Document_ID=568\">www.chiefexaminer.vic.gov.au</a></div><div>+61 3 9520 5200</div></div></div></div></div><p><br></p><br /><br /><button class=\"button\" data-lng-lat=\"144.981269,-37.80258\" data-feature-id=\"144.981269,-37.80258\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.000087,-37.847837 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Prahran Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>396 Malvern Rd, Prahran VIC 3181, Australia</div><div><a href=\"https://www.chiefexaminer.vic.gov.au/content.asp?Document_ID=568\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.chiefexaminer.vic.gov.au/content.asp?Document_ID=568\">www.chiefexaminer.vic.gov.au</a></div><div>+61 3 9520 5200</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.000087,-37.847837\" data-feature-id=\"145.000087,-37.847837\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.901373,-37.803867 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Footscray Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>66 Hyde St, Footscray VIC 3011, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=563\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=563\">www.police.vic.gov.au</a></div><div>+61 3 8398 9800</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.901373,-37.803867\" data-feature-id=\"144.901373,-37.803867\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.963068,-37.762812 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Brunswick Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>630 Sydney Rd, Brunswick VIC 3056, Australia</div><div>+61 3 8378 6000</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.963068,-37.762812\" data-feature-id=\"144.963068,-37.762812\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.924078,-37.764712 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Moonee Ponds Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>766 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9373 5200</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.924078,-37.764712\" data-feature-id=\"144.924078,-37.764712\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.007263,-37.739011 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Preston Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>Roseberry Ave, Preston VIC 3072, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=553\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=553\">www.police.vic.gov.au</a></div><div>+61 3 9479 6111</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.007263,-37.739011\" data-feature-id=\"145.007263,-37.739011\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962331,-37.718174 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Fawkner Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>1151 Sydney Rd, Hadfield VIC 3046, Australia</div><div><a href=\"https://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9355 6000</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.962331,-37.718174\" data-feature-id=\"144.962331,-37.718174\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.002147,-37.766123 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Northcote Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>48 Dennis St, Northcote VIC 3070, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9403 0200</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.002147,-37.766123\" data-feature-id=\"145.002147,-37.766123\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.958041,-37.771016 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Major Collision Investigation Unit</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>20 Dawson St, Brunswick VIC 3056, Australia</div><div><a href=\"https://www.police.vic.gov.au/specialist-areas\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/specialist-areas\">www.police.vic.gov.au</a></div><div>+61 3 9380 7298</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.958041,-37.771016\" data-feature-id=\"144.958041,-37.771016\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.070973,-37.757726 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Heidelberg Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>7 Jika St, Heidelberg VIC 3084, Australia</div><div><a href=\"https://www.police.vic.gov.au/location\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/location\">www.police.vic.gov.au</a></div><div>+61 3 9450 8000</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.070973,-37.757726\" data-feature-id=\"145.070973,-37.757726\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.990678,-37.867887 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">St Kilda Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>92 Chapel St, St Kilda VIC 3182, Australia</div><div><a href=\"https://www.police.vic.gov.au/content.asp?\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/content.asp?\">www.police.vic.gov.au</a></div><div>+61 3 9536 2666</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.990678,-37.867887\" data-feature-id=\"144.990678,-37.867887\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.038222,-37.937395 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Moorabbin Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>1011-1013 Nepean Hwy, Moorabbin VIC 3189, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=576\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=576\">www.police.vic.gov.au</a></div><div>+61 3 9556 6565</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.038222,-37.937395\" data-feature-id=\"145.038222,-37.937395\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.011114,-37.949493 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Bayside Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>3191/25 Abbott St, Sandringham VIC 3191, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=577\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=577\">www.police.vic.gov.au</a></div><div>+61 3 8530 5100</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.011114,-37.949493\" data-feature-id=\"145.011114,-37.949493\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.157832,-37.788424 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Police Station Doncaster East</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>979 Doncaster Rd, Doncaster East VIC 3108, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=645\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=645\">www.police.vic.gov.au</a></div><div>+61 3 8841 3999</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.157832,-37.788424\" data-feature-id=\"145.157832,-37.788424\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.183294,-37.817504 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Nunawading Highway Patrol</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>401 Whitehorse Rd, Nunawading VIC 3131, Australia</div><div>+61 3 9871 4111</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.183294,-37.817504\" data-feature-id=\"145.183294,-37.817504\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.058888,-37.725258 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Victoria Police Forensic Services Centre</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>31 Forensic Dr, Macleod VIC 3085, Australia</div><div><a href=\"https://www.police.vic.gov.au/forensic-services-department\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/forensic-services-department\">www.police.vic.gov.au</a></div><div>+61 3 9450 3444</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.058888,-37.725258\" data-feature-id=\"145.058888,-37.725258\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.089234,-37.706663 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Greensborough Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>167/169 Grimshaw St, Greensborough VIC 3088, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 8432 0200</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.089234,-37.706663\" data-feature-id=\"145.089234,-37.706663\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.85944,-37.755729 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Avondale Heights Police Station.</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>162 Military Rd, Avondale Heights VIC 3034, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 9337 6777</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.85944,-37.755729\" data-feature-id=\"144.85944,-37.755729\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.807501,-37.723828 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Keilor Downs Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>1 Copernicus Way, Keilor Downs VIC 3038, Australia</div><div><a href=\"https://www.brimbank.vic.gov.au/map/keilor-downs-police-station\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.brimbank.vic.gov.au/map/keilor-downs-police-station\">www.brimbank.vic.gov.au</a></div><div>+61 3 9365 3333</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.807501,-37.723828\" data-feature-id=\"144.807501,-37.723828\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.831386,-37.777581 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Sunshine Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>497 Ballarat Rd, Sunshine VIC 3020, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=561\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=561\">www.police.vic.gov.au</a></div><div>+61 3 9313 3333</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.831386,-37.777581\" data-feature-id=\"144.831386,-37.777581\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8099,-37.861082 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Altona Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>1 Galvin St, Altona VIC 3018, Australia</div><div><a href=\"http://police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://police.vic.gov.au/\">police.vic.gov.au</a></div><div>+61 3 9392 3111</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.8099,-37.861082\" data-feature-id=\"144.8099,-37.861082\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.742225,-38.336293 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Sorrento Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>10 Hotham Rd, Sorrento VIC 3943, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 5984 2000</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.742225,-38.336293\" data-feature-id=\"144.742225,-38.336293\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.818964,-38.370519 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Rye Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>2 Dundas St, Rye VIC 3941, Australia</div><div>+61 3 5985 2582</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.818964,-38.370519\" data-feature-id=\"144.818964,-38.370519\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.489105,-38.200235 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Koo Wee Rup Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>260 Rossiter Rd, Koo Wee Rup VIC 3981, Australia</div><div><a href=\"https://www.police.vic.gov.au/content.asp?Document_ID=584\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/content.asp?Document_ID=584\">www.police.vic.gov.au</a></div><div>+61 3 5997 1404</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.489105,-38.200235\" data-feature-id=\"145.489105,-38.200235\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.311331,-38.026109 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Narre Warren Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>8 Coventry Rd, Narre Warren VIC 3805, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=627\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=627\">www.police.vic.gov.au</a></div><div>+61 3 9705 3111</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.311331,-38.026109\" data-feature-id=\"145.311331,-38.026109\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.354618,-37.908089 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Belgrave Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>2 Ena Rd, Belgrave VIC 3160, Australia</div><div>+61 3 9754 6677</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.354618,-37.908089\" data-feature-id=\"145.354618,-37.908089\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.423519,-37.922049 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Emerald Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>386/390 Belgrave-Gembrook Rd, Emerald VIC 3782, Australia</div><div><a href=\"https://www.police.vic.gov.au/location\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/location\">www.police.vic.gov.au</a></div><div>+61 3 5954 0200</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.423519,-37.922049\" data-feature-id=\"145.423519,-37.922049\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.36504,-37.856107 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Olinda Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>549A Mount Dandenong Tourist Rd, Olinda VIC 3788, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 9751 1241</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.36504,-37.856107\" data-feature-id=\"145.36504,-37.856107\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.407696,-37.875241 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Monbulk Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>58 Main Rd, Monbulk VIC 3793, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 9756 6266</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.407696,-37.875241\" data-feature-id=\"145.407696,-37.875241\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.510895,-37.65687 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Healesville Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>37 Harker St, Healesville VIC 3777, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 5962 4422</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.510895,-37.65687\" data-feature-id=\"145.510895,-37.65687\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.372901,-37.660659 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Yarra Glen Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>68 King St, Yarra Glen VIC 3775, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=594\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=594\">www.police.vic.gov.au</a></div><div>+61 3 9730 1296</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.372901,-37.660659\" data-feature-id=\"145.372901,-37.660659\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.380547,-37.787145 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Mount Evelyn Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>17 York Rd, Mount Evelyn VIC 3796, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 9736 2473</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.380547,-37.787145\" data-feature-id=\"145.380547,-37.787145\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.279076,-37.799165 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Croydon Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>175 Mt Dandenong Rd, Croydon VIC 3136, Australia</div><div><a href=\"https://www.police.vic.gov.au/content.asp?Document_ID=635\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/content.asp?Document_ID=635\">www.police.vic.gov.au</a></div><div>+61 3 9724 0100</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.279076,-37.799165\" data-feature-id=\"145.279076,-37.799165\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.338966,-37.757177 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Lilydale Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>6/10 Albert Hill Rd, Lilydale VIC 3140, Australia</div><div><a href=\"http://www.police.vic.gov.au/content.asp?Document_ID=636\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/content.asp?Document_ID=636\">www.police.vic.gov.au</a></div><div>+61 3 9739 2300</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.338966,-37.757177\" data-feature-id=\"145.338966,-37.757177\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.227136,-37.813135 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Ringwood Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>31 Ringwood St, Ringwood VIC 3134, Australia</div><div>+61 3 9871 3000</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.227136,-37.813135\" data-feature-id=\"145.227136,-37.813135\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.150637,-37.713447 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Eltham Police Complex</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>21 Pryor St, Eltham VIC 3095, Australia</div><div>+61 3 9430 4500</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.150637,-37.713447\" data-feature-id=\"145.150637,-37.713447\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.160623,-37.673839 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Diamond Creek Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>83 Main Hurstbridge Rd, Diamond Creek VIC 3089, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 9438 8300</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.160623,-37.673839\" data-feature-id=\"145.160623,-37.673839\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.192836,-37.639982 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Hurstbridge Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>790 Main Rd, Hurstbridge VIC 3099, Australia</div><div><a href=\"https://www.police.vic.gov.au/local-police-stations\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/local-police-stations\">www.police.vic.gov.au</a></div><div>+61 3 9718 2111</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.192836,-37.639982\" data-feature-id=\"145.192836,-37.639982\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.998407,-37.693805 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Reservoir Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>67-73 Mahoneys Rd, Thomastown VIC 3073, Australia</div><div><a href=\"https://www.police.vic.gov.au/location\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/location\">www.police.vic.gov.au</a></div><div>+61 3 9460 6744</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.998407,-37.693805\" data-feature-id=\"144.998407,-37.693805\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.002462,-37.666824 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div>High StreetPolice Centre</div><div>637 Flinders St, Epping VIC 3076, Australia</div><div><a href=\"https://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9409 8100</div><br /><br /><button class=\"button\" data-lng-lat=\"145.002462,-37.666824\" data-feature-id=\"145.002462,-37.666824\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.681043,-37.893969 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-名称-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-名称-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:5ZCN56ew\" data-column-name=\"名称\">Werribee Police Station</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>134 Princes Hwy, Werribee VIC 3030, Australia</div><div><a href=\"http://www.police.vic.gov.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.police.vic.gov.au/\">www.police.vic.gov.au</a></div><div>+61 3 9742 9444</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.681043,-37.893969\" data-feature-id=\"144.681043,-37.893969\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/hotel.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Police station",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.914998,-37.777634 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Ascot Vale Pharmacy</p><p>67-69 Union Road, Ascot Vale</p><p>9370 4146</p><br /><br /><button class=\"button\" data-lng-lat=\"144.914998,-37.777634\" data-feature-id=\"144.914998,-37.777634\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/324ba6/heart.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Pharmacy",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.849724,-37.561374 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>UFS Dispensaries,</p><p>717 Sturt Street, Ballarat</p><p>5331 9811</p><p><br data-mce-bogus=\"1\"></p><br /><br /><button class=\"button\" data-lng-lat=\"143.849724,-37.561374\" data-feature-id=\"143.849724,-37.561374\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/324ba6/heart.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Pharmacy",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.084202,-37.813374 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Balwyn Day and Night Pharmacy</p><p>310-314 Whitehorse Rd, Balwyn,</p><p>9836 3245</p><br /><br /><button class=\"button\" data-lng-lat=\"145.084202,-37.813374\" data-feature-id=\"145.084202,-37.813374\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/324ba6/heart.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Pharmacy",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.964608,-37.744468 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Coburg Pharmacy 4 Less</p><p>1 Louisa St, Coburg</p><p>9386 6655</p><br /><br /><button class=\"button\" data-lng-lat=\"144.964608,-37.744468\" data-feature-id=\"144.964608,-37.744468\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/324ba6/heart.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Pharmacy",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.915558,-37.594082 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Chemist Discount Centre</p><p>2A/340 Craigieburn Road, Craigieburn</p><p>9308 4981</p><br /><br /><button class=\"button\" data-lng-lat=\"144.915558,-37.594082\" data-feature-id=\"144.915558,-37.594082\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/324ba6/heart.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Pharmacy",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.317072,-38.086542 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Cranbourne North Chemist Warehouse</p><p>180S William Thwaites Blvd, Cranbourne North</p><p>8391 9509</p><br /><br /><button class=\"button\" data-lng-lat=\"145.317072,-38.086542\" data-feature-id=\"145.317072,-38.086542\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/324ba6/heart.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Pharmacy",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.956548,-37.799821 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>HealthSmart Pharmacy Victorian Comprehensive Cancer Centre</p><p>311 Grattan St, Melbourne</p><p>9045 9777</p><br /><br /><button class=\"button\" data-lng-lat=\"144.956548,-37.799821\" data-feature-id=\"144.956548,-37.799821\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/324ba6/heart.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Pharmacy",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.158551,-34.186919 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Mildura Chemist Warehouse</p><p>114A -118 Langtree Ave, Mildura</p><p>5023 2383</p><br /><br /><button class=\"button\" data-lng-lat=\"142.158551,-34.186919\" data-feature-id=\"142.158551,-34.186919\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/324ba6/heart.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Pharmacy",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.23816,-37.86789 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Pharmacy@Knox</p><p>Shop 2081 Westfield Knox, 425 Burwood Hwy, Wantirna South</p><p>9800 5199</p><br /><br /><button class=\"button\" data-lng-lat=\"145.23816,-37.86789\" data-feature-id=\"145.23816,-37.86789\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/324ba6/heart.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Pharmacy",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8837,-37.813014 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<p>Carnovale Pharmacy</p><p>149 Somerville Road, Yarraville</p><p>9314 7557</p><br /><br /><button class=\"button\" data-lng-lat=\"144.8837,-37.813014\" data-feature-id=\"144.8837,-37.813014\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/324ba6/heart.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Pharmacy",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.05925,-37.756676 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Austin Hospital</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>145 Studley Rd, Heidelberg VIC 3084, Australia</div><div><a href=\"http://www.austin.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.austin.org.au/\">www.austin.org.au</a></div><div>+61 3 9496 5000</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.05925,-37.756676\" data-feature-id=\"145.05925,-37.756676\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.119799,-37.813761 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Box Hill Hospital</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>8 Arnold St, Box Hill VIC 3128, Australia</div><div><a href=\"http://www.easternhealth.org.au/locations/box-hill-hospital\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.easternhealth.org.au/locations/box-hill-hospital\">www.easternhealth.org.au</a></div><div>+61 1300 342 255</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.119799,-37.813761\" data-feature-id=\"145.119799,-37.813761\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0214794,-37.8021562 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Caritas Christi Hospice</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>104 Studley Park Rd, Kew VIC 3101, Australia</div><div><a href=\"https://svhm.org.au/home/patients-and-visitors/campus-information/caritas-christi-campus\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://svhm.org.au/home/patients-and-visitors/campus-information/caritas-christi-campus\">svhm.org.au</a></div><div>+61 3 9853 2344</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.0214794,-37.8021562\" data-feature-id=\"145.0214794,-37.8021562\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.015908,-37.882215 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Caulfield Hospital</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>260-294 Kooyong Rd, Caulfield VIC 3162, Australia</div><div><a href=\"http://www.alfredhealth.org.au/caulfield\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.alfredhealth.org.au/caulfield\">www.alfredhealth.org.au</a></div><div>+61 3 9076 6000</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.015908,-37.882215\" data-feature-id=\"145.015908,-37.882215\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.122931,-37.921558 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Monash Medical Centre</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>246 Clayton Rd, Clayton VIC 3168, Australia</div><div><a href=\"https://monashhealth.org/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://monashhealth.org/\">monashhealth.org</a></div><div>+61 3 9594 6666</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.122931,-37.921558\" data-feature-id=\"145.122931,-37.921558\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.129668,-38.150703 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Frankston Hospital</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>2 Hastings Rd, Frankston VIC 3199, Australia</div><div><a href=\"http://www.peninsulahealth.org.au/locations/frankston/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.peninsulahealth.org.au/locations/frankston/\">www.peninsulahealth.org.au</a></div><div>+61 3 9784 7777</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.129668,-38.150703\" data-feature-id=\"145.129668,-38.150703\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.255556,-37.807001 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Maroondah Hospital</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>1-15 Davey Dr, Ringwood East VIC 3135, Australia</div><div><a href=\"http://www.easternhealth.org.au/locations/maroondah-hospital\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.easternhealth.org.au/locations/maroondah-hospital\">www.easternhealth.org.au</a></div><div>+61 1300 342 255</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.255556,-37.807001\" data-feature-id=\"145.255556,-37.807001\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.060371,-37.756981 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Mercy Hospital For Women</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>163 Studley Rd, Heidelberg VIC 3084, Australia</div><div><a href=\"https://health-services.mercyhealth.com.au/our-locations/mercy-hospital-women/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://health-services.mercyhealth.com.au/our-locations/mercy-hospital-women/\">health-services.mercyhealth.com.au</a></div><div>+61 3 8458 4444</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.060371,-37.756981\" data-feature-id=\"145.060371,-37.756981\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1326647,-37.9126065 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Monash University Health Services</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>Monash University, Campus Centre21 Chancellors Walk, Clayton VIC 3168, Australia</div><div><a href=\"http://www.monash.edu/health\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.monash.edu/health\">www.monash.edu</a></div><div>+61 3 9905 3175</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.1326647,-37.9126065\" data-feature-id=\"145.1326647,-37.9126065\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.062994,-37.921492 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Monash Health - Moorabbin Hospital</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>823-865 Centre Rd, Bentleigh East VIC 3165, Australia</div><div><a href=\"https://monashhealth.org/contact/moorabbin-hospital/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://monashhealth.org/contact/moorabbin-hospital/\">monashhealth.org</a></div><div>+61 3 9928 8111</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.062994,-37.921492\" data-feature-id=\"145.062994,-37.921492\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.177824,-37.97154 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">The Queen Elizabeth Centre</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>53 Thomas St, Noble Park VIC 3174, Australia</div><div><a href=\"http://www.qec.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.qec.org.au/\">www.qec.org.au</a></div><div>+61 3 9549 2777</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.177824,-37.97154\" data-feature-id=\"145.177824,-37.97154\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.954761,-37.798951 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">The Royal Women's Hospital</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>20 Flemington Rd, Parkville VIC 3052, Australia</div><div><a href=\"http://thewomens.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://thewomens.org.au/\">thewomens.org.au</a></div><div>+61 3 8345 2000</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.954761,-37.798951\" data-feature-id=\"144.954761,-37.798951\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.018799,-37.961322 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Sandringham Hospital</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>193 Bluff Rd, Sandringham VIC 3191, Australia</div><div><a href=\"http://www.alfredhealth.org.au/sandringham\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.alfredhealth.org.au/sandringham\">www.alfredhealth.org.au</a></div><div>+61 3 9076 1000</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.018799,-37.961322\" data-feature-id=\"145.018799,-37.961322\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.974564,-37.807697 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">St. Vincent's Hospital Melbourne</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>41 Victoria Parade, Fitzroy VIC 3065, Australia</div><div><a href=\"https://svhm.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://svhm.org.au/\">svhm.org.au</a></div><div>+61 3 9231 2211</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.974564,-37.807697\" data-feature-id=\"144.974564,-37.807697\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.804503,-37.759612 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Sunshine Hospital</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>Furlong Rd, St Albans VIC 3021, Australia</div><div><a href=\"http://www.westernhealth.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.westernhealth.org.au/\">www.westernhealth.org.au</a></div><div>+61 3 8345 1333</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.804503,-37.759612\" data-feature-id=\"144.804503,-37.759612\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.164381,-37.853991 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Peter James Centre</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>321-345 Burwood Hwy, Burwood East VIC 3131, Australia</div><div><a href=\"http://www.easternhealth.org.au/locations/peter-james-centre\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.easternhealth.org.au/locations/peter-james-centre\">www.easternhealth.org.au</a></div><div>+61 1300 342 255</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.164381,-37.853991\" data-feature-id=\"145.164381,-37.853991\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.88738,-37.792388 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Western Hospital</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>160 Gordon St, Footscray VIC 3011, Australia</div><div><a href=\"https://www.westernhealth.org.au/OurSites/WesternHospital/Pages/default.aspx\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.westernhealth.org.au/OurSites/WesternHospital/Pages/default.aspx\">www.westernhealth.org.au</a></div><div>+61 3 8345 6666</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.88738,-37.792388\" data-feature-id=\"144.88738,-37.792388\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.890398,-37.864698 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Williamstown Hospital</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>Stewart St, Williamstown VIC 3016, Australia</div><div><a href=\"http://www.westernhealth.org.au/OurSites/WilliamstownHospital/Pages/default.aspx\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.westernhealth.org.au/OurSites/WilliamstownHospital/Pages/default.aspx\">www.westernhealth.org.au</a></div><div>+61 3 9393 0100</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.890398,-37.864698\" data-feature-id=\"144.890398,-37.864698\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/d62727/hospital.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Hospital",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.569611,-34.920014 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">St Mark's Community Centre</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>250 George St, Fitzroy VIC 3065, Australia</div><div><a href=\"https://www.stmarksfitzroy.com/saint-marks-community-centre\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.stmarksfitzroy.com/saint-marks-community-centre\">www.stmarksfitzroy.com</a></div><div>+61 3 9412 6060</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"138.569611,-34.920014\" data-feature-id=\"138.569611,-34.920014\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8756028,-37.7787303 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Australian Multicultural Community Services</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>Suite 111/44-56 Hampstead Rd, Maidstone VIC 3012, Australia</div><div><a href=\"http://www.amcservices.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.amcservices.org.au/\">www.amcservices.org.au</a></div><div>+61 3 9689 9170</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.8756028,-37.7787303\" data-feature-id=\"144.8756028,-37.7787303\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.040722,-37.739231 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Banyule Community Health</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>21 Alamein Rd, Heidelberg West VIC 3081, Australia</div><div><a href=\"https://bchs.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://bchs.org.au/\">bchs.org.au</a></div><div>+61 3 9450 2000</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.040722,-37.739231\" data-feature-id=\"145.040722,-37.739231\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.158755,-37.902971 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">bestchance Child Family Care</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>583 Ferntree Gully Rd, Glen Waverley VIC 3150, Australia</div><div><a href=\"https://www.bestchance.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.bestchance.org.au/\">www.bestchance.org.au</a></div><div>+61 1300 224 644</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.158755,-37.902971\" data-feature-id=\"145.158755,-37.902971\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.86504,-37.840775 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Newport Community Hub</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>13/15 Mason St, Newport VIC 3015, Australia</div><div><a href=\"http://www.hobsonsbay.vic.gov.au/Community/Community-hubs-centres\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.hobsonsbay.vic.gov.au/Community/Community-hubs-centres\">www.hobsonsbay.vic.gov.au</a></div><div>+61 3 9932 1234</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.86504,-37.840775\" data-feature-id=\"144.86504,-37.840775\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.966937,-37.740899 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Community Information and Support Moreland</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>512 Sydney Rd, Coburg VIC 3058, Australia</div><div>+61 3 9350 3737</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.966937,-37.740899\" data-feature-id=\"144.966937,-37.740899\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.126611,-37.8196255 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Box Hill CIS - Community Information & Support</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>1/27 Bank St, Box Hill VIC 3128, Australia</div><div><a href=\"http://www.boxhillcis.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.boxhillcis.org.au/\">www.boxhillcis.org.au</a></div><div>+61 3 9285 4801</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.126611,-37.8196255\" data-feature-id=\"145.126611,-37.8196255\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.127256,-37.874827 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Monash-Waverley Community Information and Support Inc</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>47 Miller Cres, Mount Waverley VIC 3149, Australia</div><div><a href=\"http://monashwaverleycis.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://monashwaverleycis.org.au/\">monashwaverleycis.org.au</a></div><div>+61 3 9807 9844</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.127256,-37.874827\" data-feature-id=\"145.127256,-37.874827\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.093568,-37.900987 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Community Information Centres</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>25 Downing St, Oakleigh VIC 3166, Australia</div><div><a href=\"http://www.mocsis.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.mocsis.org.au/\">www.mocsis.org.au</a></div><div>+61 3 9568 4533</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.093568,-37.900987\" data-feature-id=\"145.093568,-37.900987\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.14849,-37.946763 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Springvale Community Aid & Advice Bureau Inc</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>5 Osborne Ave, Springvale VIC 3171, Australia</div><div>+61 3 9546 5255</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"145.14849,-37.946763\" data-feature-id=\"145.14849,-37.946763\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9643876,-37.8141222 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">The Salvation Army Melbourne Project 614</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>69 Bourke St, Melbourne VIC 3000, Australia</div><div><a href=\"http://salvationarmy.org.au/melbourne614\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://salvationarmy.org.au/melbourne614\">salvationarmy.org.au</a></div><div>+61 3 9653 3299</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.9643876,-37.8141222\" data-feature-id=\"144.9643876,-37.8141222\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9551947,-37.8034147 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Inner Melbourne Community Legal</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>2/508 Queensberry St, North Melbourne VIC 3051, Australia</div><div><a href=\"https://imcl.org.au/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://imcl.org.au/\">imcl.org.au</a></div><div>+61 3 9328 1885</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.9551947,-37.8034147\" data-feature-id=\"144.9551947,-37.8034147\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.993269,-37.851063 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Uniting Emergency Relief - Prahran</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>211 Chapel St, Prahran VIC 3181, Australia</div><div><a href=\"https://www.unitingvictas.org.au/services/resilient-communities/emergency-relief-services/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.unitingvictas.org.au/services/resilient-communities/emergency-relief-services/\">www.unitingvictas.org.au</a></div><div>+61 3 9692 9500</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.993269,-37.851063\" data-feature-id=\"144.993269,-37.851063\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.956705,-37.834346 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Uniting Emergency Relief - South Melbourne</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>317-329 Dorcas St, South Melbourne VIC 3205, Australia</div><div><a href=\"https://www.unitingvictas.org.au/services/resilient-communities/emergency-relief-services/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.unitingvictas.org.au/services/resilient-communities/emergency-relief-services/\">www.unitingvictas.org.au</a></div><div>+61 3 9697 1213</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.956705,-37.834346\" data-feature-id=\"144.956705,-37.834346\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.962225,-37.765393 ]
+    },
+    "properties": {
+    "name":"",
+    "description":"<div id=\"map-infowindow-attr-name-container\" class=\"i4ewOd-TaUzNb-r4nke-haAclf\"><div id=\"map-infowindow-attr-name-value\" class=\"i4ewOd-TaUzNb-r4nke i4ewOd-TaUzNb-p83tee-lTBxed\" data-placeholder=\"Untitled\" data-placeholder-class=\"i4ewOd-TaUzNb-p83tee-LwH6nd\" data-column-id=\"str:bmFtZQ==\" data-column-name=\"name\">Uniting Emergency Relief - Brunswick</div></div><div id=\"map-infowindow-content\"><div class=\"OzwZjf-jRmmHf-MZArnb-KDwhZb fO2voc-jRmmHf-LJTIlf\"><div>503 Sydney Rd, Brunswick VIC 3056, Australia</div><div><a href=\"https://www.unitingvictas.org.au/services/resilient-communities/emergency-relief-services/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.unitingvictas.org.au/services/resilient-communities/emergency-relief-services/\">www.unitingvictas.org.au</a></div><div>+61 3 9326 8343</div></div></div><br /><br /><button class=\"button\" data-lng-lat=\"144.962225,-37.765393\" data-feature-id=\"144.962225,-37.765393\" id=\"wp_mapbox_gl_js_set_directions\">Directions</button>",
+    "color":"#333",
+    "marker_icon_url":"https://www.calyxx.tk/wp-content/plugins/wp-mapbox-gl-js/admin/wp-mapmaker/public/img/mapkey/35a145/museum.svg-wp_mapbox_gl_js_sizing-100-100",
+    "marker_icon_anchor":"bottom",
+    "marker_title":"Marker",
+    "category":"Welfare organization",
+    "opacity":0.4,
+    "popup_open":"false"
+    }
+  }
+]
+}
